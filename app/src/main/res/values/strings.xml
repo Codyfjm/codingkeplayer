@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">扣丁音乐</string>
+    <string name="action_contact">Contact</string>
+<string name="rundom_play">随机播放</string>
+<string name="order_play">顺序播放</string>
+<string name="single_play">单曲播放</string>
+</resources>
